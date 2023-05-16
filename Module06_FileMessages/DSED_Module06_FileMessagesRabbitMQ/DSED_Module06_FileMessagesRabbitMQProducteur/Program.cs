@@ -2,7 +2,7 @@
 using System;
 using System.Text;
 
-namespace DSED_Module06_FileMessagesRabbitMQ
+namespace DSED_Module06_FileMessagesRabbitMQ    // Producteur de messages
 {
     class Program
     {

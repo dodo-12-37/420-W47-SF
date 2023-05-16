@@ -4,7 +4,7 @@ using System;
 using System.Text;
 using System.Threading;
 
-namespace DSED_Module06_FileMessageProducteur
+namespace DSED_Module06_FileMessageProducteur       // Consommateur
 {
     class Program
     {
